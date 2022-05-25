@@ -1,4 +1,4 @@
-# Swapnil Rana
+# **Swapnil Rana**
 
 [My LinkedIn](https://www.linkedin.com/in/swapnil-rana)
 <br/>
@@ -6,7 +6,7 @@
 [My Github!](https://github.com/swapnilrana) 
 
 
-## Myself:
+## **MYSELF**
 - I am Swapnil Rana 😊
 
 ## **EDUCATION**
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-## TECHNICAL SKILLS
+## **TECHNICAL SKILLS**
 - **Programming:** Python, C++, Matlab, JavaScript, Jupyter-notebook, Google Colab
 - **Dashboard/UI development/Front end:** Node-red, Things-Board, HTML & CSS
 - **Back end:** MongoDB, basics of AWS
@@ -35,20 +35,20 @@
 <br/>
 <br/>
 
-## PROFESSIONAL EXPERIENCE
-### Embedded Design Engineer     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; April 2019 to April 2021
+## **PROFESSIONAL EXPERIENCE**
+### **Embedded Design Engineer**     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; April 2019 to April 2021
 *Godrej Interio – Mumbai | India*					        
 - Accomplished various POC through research, benchmarking, and prototyping. Thereby uplifted existing products to match with the current technology and market trends. 
 -	Executed project planning, detailed hardware & firmware design for embedded systems in coherence with NPI processes utilizing DFSS methodology, DVPR, DFMEA and Risk Management.
 -	Worked along with the cross-functional teams and vendors for product commercialization and conducted EMC/EMI tests as per IS/IEC standards for product compliance certification.
 
-### Industrial IoT Project Lead   	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Feb 2018 to April 2019
+### **Industrial IoT Project Lead**   	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Feb 2018 to April 2019
 *Godrej Electrical and Electronics – Mumbai | India*
 - Researched and deployed IIoT solutions, Projects, & Digitized Shop floors to rectify regular equipment breakdowns, Routine machinery check-up, computing OEE productivity and operator efficiency.
 - Carried out exhaustive in-house development of projects through benchmarking, technological survey, POC, Circuit design, software development and concluded with delivery and onsite deployment.
 -	Prepared and maintained user-manual, SOP’s, and design documents to expediate future deployment of similar projects.
 
-### Predictive & Protective Maintenance      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;          June 2016 to Feb 2018
+### **Predictive & Protective Maintenance**      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;          June 2016 to Feb 2018
 *Godrej Electrical and Electronics – Mumbai | India*
 -	Improvised preventive maintenance techniques and practised periodic Electronics Maintenance of the varied generation of machines including NC, CNC and PLC from Siemens, Fanuc, LVD.
 -	Supported Automation team in developing new logics for robots and modified and tested ladder logic of distinct PLC’s such as Delta, Mitsubishi, Allen Bradley, Siemens, Ge-Fanuc and Beckhoff for improvements in process automation. 
@@ -56,7 +56,7 @@
 <br/>
 
 
-### Additional Work responsibilities 
+### **Additional Work responsibilities** 
 - Deploy innovative KAIZENs     &emsp; &emsp;     *Aug 2016 to Apr 2021*
 <br/>
 &emsp; &emsp; Brainstormed and improvised various products and shopfloor by implementing 5 Kaizens each year.
@@ -74,7 +74,7 @@
 <br/>
 
 
-## PROJECTS 
+## **PROJECTS** 
 **1. CandidVote System  	&emsp;		 					*University of Waterloo - April 2022***
 <br/>
 Developed a block-chain based decentralized General voting system to prevent fraudulent voting. Created complete front-end using HTML, CSS and JS also supported in making smart contracts for the Block-chain.
@@ -100,13 +100,13 @@ Extended the electrical panel as per customer requirement and successfully obtai
 <br/>
 
 **5. Major IoT Projects accomplished 		 &emsp;         *Godrej Electrical and Electronics – Feb 2018 to March 2019***
-: -	Digitization of Shop floor to compute OEE and Productivity 
-: - Machine Health Scanner for predicting a possible failure of electromechanical equipment 
-: - Vibration detecting Probe for Automatic initiation of Preventive Maintenance call
-: -	Water consumption Tracker helping in channelizing water during peak hours
-: -	Panel Temperature and Humidity detector to prevent breakdown due to overheated electronic components
-: -	Compressed Air pressure check for preventive maintenance of Air-Compressors
-: -	Fully automated Battery Tester and Analyzer for UEP batteries
+-	Digitization of Shop floor to compute OEE and Productivity 
+- Machine Health Scanner for predicting a possible failure of electromechanical equipment 
+- Vibration detecting Probe for Automatic initiation of Preventive Maintenance call
+-	Water consumption Tracker helping in channelizing water during peak hours
+-	Panel Temperature and Humidity detector to prevent breakdown due to overheated electronic components
+-	Compressed Air pressure check for preventive maintenance of Air-Compressors
+-	Fully automated Battery Tester and Analyzer for UEP batteries
 <br/>
 <br/>
 
@@ -117,7 +117,7 @@ Incorporated missing function for automatic tube unload by programming Delta Tau
 <br/>
 
 **7. Undergrad and Diploma Project (Embedded Projects)		&emsp;		  *VJTI (2016) & GPM (2013)***
-: - Made ‘Braille Tutor Pad’ with immersive learning experience that could help in promoting braille literacy of visually impaired.
-: -	Invented traffic signal control system for Emergency vehicles like an ambulance to clear out a pathway and reach the hospital on time, minimizing the risk of a patient’s death
+- Made ‘Braille Tutor Pad’ with immersive learning experience that could help in promoting braille literacy of visually impaired.
+-	Invented traffic signal control system for Emergency vehicles like an ambulance to clear out a pathway and reach the hospital on time, minimizing the risk of a patient’s death
 <br/>
 
