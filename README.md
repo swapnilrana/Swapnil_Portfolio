@@ -57,7 +57,7 @@
 
 ### ADDITIONAL WORK RESPONSIBILITIES
 - Deploy innovative KAIZENs     &emsp; &emsp;     Aug16 to Apr21
-&emsp; &emsp; &emsp; Brainstormed and improvised various products and shopfloor by implementing 5 Kaizens each year.
+  -Brainstormed and improvised various products and shopfloor by implementing 5 Kaizens each year.
 <br/>
 
 - Instructor in Team development Program &nbsp;&nbsp; October 2018 to April 2021 
