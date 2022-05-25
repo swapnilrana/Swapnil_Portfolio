@@ -8,7 +8,7 @@
 - I am Swapnil Rana 😊
 
 EDUCATION
-### Masters in Electrical and Computer Engineering (Software and AI/ML course based) |        Graduating in Aug 2022
+### Masters in Electrical and Computer Engineering (Software and AI/ML course based) &emsp;        Graduating in Aug 2022
 *University of Waterloo, Waterloo | Ontario CA*  
 ### Bachelor of Technology in Electronics Engineering (2016) |          8.77/10 CPI
 *Veermata Jijabai Technological Institute (VJTI), Mumbai | India*
