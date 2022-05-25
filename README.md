@@ -11,9 +11,9 @@
 ## **EDUCATION**
 ### Masters in Electrical and Computer Engineering (Software and AI/ML course based) &emsp; Graduating in Aug 2022
 *University of Waterloo, Waterloo | Ontario CA*
-### Bachelor of Technology in Electronics Engineering (2016) &emsp; &emsp; &emsp; &emsp; 8.77/10 CPI
+### Bachelor of Technology in Electronics Engineering (2016) &emsp; &emsp; &nbsp; &nbsp; &nbsp; &emsp; &emsp; 8.77/10 CPI
 *Veermata Jijabai Technological Institute (VJTI), Mumbai | India*
-### Diploma in Electronics Engineering (2013) &emsp; &emsp; &emsp; &emsp; Department Topper: 90.23%
+### Diploma in Electronics Engineering (2013) &emsp; &emsp; &emsp;  &nbsp; &nbsp; &nbsp; &emsp; Department Topper: 90.23%
 *Government Polytechnic Mumbai, Mumbai | India*
 <br/>
 
@@ -26,32 +26,41 @@
 <br/>
 
 ## PROFESSIONAL EXPERIENCE
-### Embedded Design Engineer &emsp; &emsp;   &nbsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; April 2019 to April 2021
+### Embedded Design Engineer  &nbsp; &nbsp; &nbsp; &emsp; &emsp;   &nbsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; April 2019 to April 2021
 *Godrej Interio – Mumbai | India*					        
 - Accomplished various POC through research, benchmarking, and prototyping. Thereby uplifted existing products to match with the current technology and market trends. 
 -	Executed project planning, detailed hardware & firmware design for embedded systems in coherence with NPI processes utilizing DFSS methodology, DVPR, DFMEA and Risk Management.
 -	Worked along with the cross-functional teams and vendors for product commercialization and conducted EMC/EMI tests as per IS/IEC standards for product compliance certification.
 
-### Industrial IoT Project Lead      &nbsp; &emsp; &emsp;	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Feb 2018 to April 2019
+### Industrial IoT Project Lead    &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &emsp; &emsp;	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Feb 2018 to April 2019
 *Godrej Electrical and Electronics – Mumbai | India*
 - Researched and deployed IIoT solutions, Projects, & Digitized Shop floors to rectify regular equipment breakdowns, Routine machinery check-up, computing OEE productivity and operator efficiency.
 - Carried out exhaustive in-house development of projects through benchmarking, technological survey, POC, Circuit design, software development and concluded with delivery and onsite deployment.
 -	Prepared and maintained user-manual, SOP’s, and design documents to expediate future deployment of similar projects.
 
-### Predictive & Protective Maintenance      &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;          June 2016 to Feb 2018
+### Predictive & Protective Maintenance     &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;          June 2016 to Feb 2018
 *Godrej Electrical and Electronics – Mumbai | India*
 -	Improvised preventive maintenance techniques and practised periodic Electronics Maintenance of the varied generation of machines including NC, CNC and PLC from Siemens, Fanuc, LVD.
 -	Supported Automation team in developing new logics for robots and modified and tested ladder logic of distinct PLC’s such as Delta, Mitsubishi, Allen Bradley, Siemens, Ge-Fanuc and Beckhoff for improvements in process automation. 
 -	Supervised and contributed to drive repairs of IRB6400 ABB robot and other CNC machines also maintained the equipment inventory and handled procurement using INFOR ERP management system.
 <br />
 
+
+
 ### ADDITIONAL WORK RESPONSIBILITIES
-- Deploy innovative KAIZENs     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;     Aug16 to Apr21
+- Deploy innovative KAIZENs     &emsp; &emsp;     Aug16 to Apr21
+<br/>
 : Brainstormed and improvised various products and shopfloor by implementing 5 Kaizens each year.
-- Instructor in Team development Program October 2018 to April 2021 
+
+- Instructor in Team development Program &nbsp;&nbsp; October 2018 to April 2021 
+<br/>
 : Trained internal and cross-functional teams of technicians and Engineers for IIoT awareness and Essential C programming techniques.
-- Tutor in Accelerated Learning Program | PAN India				         October 2018 
+
+- Tutor in Accelerated Learning Program | PAN India				 &nbsp;&nbsp;        October 2018 
+<br/>
 : Delivered an interactive session on Basics of Electronics, Concepts of CNC and NC Machines, Process Automation, Motion Control and Servo Drives in 3 days lecture series for 36 employees including Assistant and Deputy Managers from several departments of Godrej
+
+
 
 ## PROJECTS 
 **1. CandidVote System  	&emsp;		 					*University of Waterloo - April 2022***
