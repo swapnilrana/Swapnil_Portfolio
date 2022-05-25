@@ -2,6 +2,7 @@
 
 [My LinkedIn](https://www.linkedin.com/in/swapnil-rana)
 <br/>
+<br/>
 [My Github!](https://github.com/swapnilrana) 
 
 
@@ -14,23 +15,23 @@
 *University of Waterloo, Waterloo | Ontario CA*
 <br/>
 
-**Bachelor of Technology in Electronics Engineering (2016) &emsp; &emsp; &nbsp; &nbsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 8.77/10 CPI**
+**Bachelor of Technology in Electronics Engineering (2016) &emsp; &emsp; &nbsp; &nbsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 8.77/10 CPI**
 <br/>
 *Veermata Jijabai Technological Institute (VJTI), Mumbai | India*
 <br/>
 
-**Diploma in Electronics Engineering (2013) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &nbsp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Department Topper: 90.23%**
+**Diploma in Electronics Engineering (2013) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &nbsp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Department Topper: 90.23%**
 <br/>
 *Government Polytechnic Mumbai, Mumbai | India*
 <br/>
 <br/>
 
 ## TECHNICAL SKILLS
-- Programming: Python, C++, Matlab, JavaScript, Jupyter-notebook, Google Colab
-- Dashboard/UI development/Front end: Node-red, Things-Board, HTML & CSS
-- Back end: MongoDB, basics of AWS
-- Software: Microsoft Office, AutoCAD, Altium Designer, EasyEDA (PCB design tool), MPLAB, Arduino-IDE, INFOR-ERP (PLM creation, Inventory management and Procurement)
-- Language: Proficient in English, Gujarati, Hindi, and Marathi
+- **Programming:** Python, C++, Matlab, JavaScript, Jupyter-notebook, Google Colab
+- **Dashboard/UI development/Front end:** Node-red, Things-Board, HTML & CSS
+- **Back end:** MongoDB, basics of AWS
+- **Software:** Microsoft Office, AutoCAD, Altium Designer, EasyEDA (PCB design tool), MPLAB, Arduino-IDE, INFOR-ERP (PLM creation, Inventory management and Procurement)
+- **Language:** Proficient in English, Gujarati, Hindi, and Marathi
 <br/>
 <br/>
 
@@ -55,8 +56,8 @@
 <br/>
 
 
-### ADDITIONAL WORK RESPONSIBILITIES
-- **Deploy innovative KAIZENs**     &emsp; &emsp;     *Aug16 to Apr21*
+### Additional Work responsibilities 
+- **Deploy innovative KAIZENs**     &emsp; &emsp;     *Aug 2016 to Apr 2021*
 <br/>
 &emsp; &emsp; Brainstormed and improvised various products and shopfloor by implementing 5 Kaizens each year.
 <br/>
