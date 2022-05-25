@@ -15,6 +15,7 @@
 ### Diploma in Electronics Engineering (2013) &emsp; &emsp; &emsp; &emsp; Department Topper: 90.23%
 *Government Polytechnic Mumbai, Mumbai | India*
 <br />
+
 ## TECHNICAL SKILLS
 - Programming: Python, C++, Matlab, JavaScript, Jupyter-notebook, Google Colab
 - Dashboard/UI development/Front end: Node-red, Things-Board, HTML & CSS
@@ -24,19 +25,19 @@
 <br />
 
 ## PROFESSIONAL EXPERIENCE
-### Embedded Design Engineer &emsp; &emsp; April 2019 to April 2021
+### Embedded Design Engineer &emsp; &emsp;  &emsp;  &emsp; April 2019 to April 2021
 *Godrej Interio – Mumbai | India*					        
 - Accomplished various POC through research, benchmarking, and prototyping. Thereby uplifted existing products to match with the current technology and market trends. 
 -	Executed project planning, detailed hardware & firmware design for embedded systems in coherence with NPI processes utilizing DFSS methodology, DVPR, DFMEA and Risk Management.
 -	Worked along with the cross-functional teams and vendors for product commercialization and conducted EMC/EMI tests as per IS/IEC standards for product compliance certification.
 
-### Industrial IoT Project Lead     &emsp; &emsp;		 Feb 2018 to April 2019
+### Industrial IoT Project Lead     &emsp; &emsp;	 &emsp;  &emsp;	 Feb 2018 to April 2019
 *Godrej Electrical and Electronics – Mumbai | India*
 - Researched and deployed IIoT solutions, Projects, & Digitized Shop floors to rectify regular equipment breakdowns, Routine machinery check-up, computing OEE productivity and operator efficiency.
 - Carried out exhaustive in-house development of projects through benchmarking, technological survey, POC, Circuit design, software development and concluded with delivery and onsite deployment.
 -	Prepared and maintained user-manual, SOP’s, and design documents to expediate future deployment of similar projects.
 
-### Predictive & Protective Maintenance     &emsp; &emsp;          June 2016 to Feb 2018
+### Predictive & Protective Maintenance     &emsp; &emsp; &emsp; &emsp;          June 2016 to Feb 2018
 *Godrej Electrical and Electronics – Mumbai | India*
 -	Improvised preventive maintenance techniques and practised periodic Electronics Maintenance of the varied generation of machines including NC, CNC and PLC from Siemens, Fanuc, LVD.
 -	Supported Automation team in developing new logics for robots and modified and tested ladder logic of distinct PLC’s such as Delta, Mitsubishi, Allen Bradley, Siemens, Ge-Fanuc and Beckhoff for improvements in process automation. 
