@@ -1,4 +1,5 @@
 # **Swapnil Rana**
+---
 
 [My LinkedIn](https://www.linkedin.com/in/swapnil-rana)
 <br/>
@@ -48,7 +49,7 @@
 - Carried out exhaustive in-house development of projects through benchmarking, technological survey, POC, Circuit design, software development and concluded with delivery and onsite deployment.
 -	Prepared and maintained user-manual, SOP’s, and design documents to expediate future deployment of similar projects.
 
-### **Predictive & Protective Maintenance**      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;          June 2016 to Feb 2018
+### **Predictive & Protective Maintenance**      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;           June 2016 to Feb 2018
 *Godrej Electrical and Electronics – Mumbai | India*
 -	Improvised preventive maintenance techniques and practised periodic Electronics Maintenance of the varied generation of machines including NC, CNC and PLC from Siemens, Fanuc, LVD.
 -	Supported Automation team in developing new logics for robots and modified and tested ladder logic of distinct PLC’s such as Delta, Mitsubishi, Allen Bradley, Siemens, Ge-Fanuc and Beckhoff for improvements in process automation. 
