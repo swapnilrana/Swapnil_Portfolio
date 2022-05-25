@@ -13,17 +13,16 @@
 <br/>
 *University of Waterloo, Waterloo | Ontario CA*
 <br/>
-<br/>
 
 **Bachelor of Technology in Electronics Engineering (2016) &emsp; &emsp; &nbsp; &nbsp; &nbsp; &emsp; &emsp; 8.77/10 CPI**
 <br/>
 *Veermata Jijabai Technological Institute (VJTI), Mumbai | India*
 <br/>
-<br/>
 
 **Diploma in Electronics Engineering (2013) &emsp; &emsp; &emsp;  &nbsp; &nbsp; &nbsp; &emsp; Department Topper: 90.23%**
 <br/>
 *Government Polytechnic Mumbai, Mumbai | India*
+<br/>
 <br/>
 
 ## TECHNICAL SKILLS
@@ -32,6 +31,7 @@
 - Back end: MongoDB, basics of AWS
 - Software: Microsoft Office, AutoCAD, Altium Designer, EasyEDA (PCB design tool), MPLAB, Arduino-IDE, INFOR-ERP (PLM creation, Inventory management and Procurement)
 - Language: Proficient in English, Gujarati, Hindi, and Marathi
+<br/>
 <br/>
 
 ## PROFESSIONAL EXPERIENCE
@@ -52,23 +52,25 @@
 -	Improvised preventive maintenance techniques and practised periodic Electronics Maintenance of the varied generation of machines including NC, CNC and PLC from Siemens, Fanuc, LVD.
 -	Supported Automation team in developing new logics for robots and modified and tested ladder logic of distinct PLC’s such as Delta, Mitsubishi, Allen Bradley, Siemens, Ge-Fanuc and Beckhoff for improvements in process automation. 
 -	Supervised and contributed to drive repairs of IRB6400 ABB robot and other CNC machines also maintained the equipment inventory and handled procurement using INFOR ERP management system.
-<br />
-
+<br/>
 
 
 ### ADDITIONAL WORK RESPONSIBILITIES
 - Deploy innovative KAIZENs     &emsp; &emsp;     Aug16 to Apr21
 <br/>
 : Brainstormed and improvised various products and shopfloor by implementing 5 Kaizens each year.
+<br/>
 
 - Instructor in Team development Program &nbsp;&nbsp; October 2018 to April 2021 
 <br/>
 : Trained internal and cross-functional teams of technicians and Engineers for IIoT awareness and Essential C programming techniques.
+<br/>
 
 - Tutor in Accelerated Learning Program | PAN India				 &nbsp;&nbsp;        October 2018 
 <br/>
 : Delivered an interactive session on Basics of Electronics, Concepts of CNC and NC Machines, Process Automation, Motion Control and Servo Drives in 3 days lecture series for 36 employees including Assistant and Deputy Managers from several departments of Godrej
-
+<br/>
+<br/>
 
 
 ## PROJECTS 
