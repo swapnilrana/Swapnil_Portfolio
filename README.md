@@ -1,6 +1,7 @@
 # Swapnil Rana
 
-[My LinkedIn](www.linkedin.com/in/swapnil-rana)
+[My LinkedIn](https://www.linkedin.com/in/swapnil-rana)
+<br/>
 [My Github!](https://github.com/swapnilrana) 
 
 
@@ -53,7 +54,7 @@
 : Delivered an interactive session on Basics of Electronics, Concepts of CNC and NC Machines, Process Automation, Motion Control and Servo Drives in 3 days lecture series for 36 employees including Assistant and Deputy Managers from several departments of Godrej
 
 ## PROJECTS 
-**1. CandidVote System 			 					University of Waterloo - April 2022**
+**1. CandidVote System  	&emsp;		 					University of Waterloo - April 2022**
 <br/>
 Developed a block-chain based decentralized General voting system to prevent fraudulent voting. Created complete front-end using HTML, CSS and JS also supported in making smart contracts for the Block-chain.
 <br/>
