@@ -11,7 +11,7 @@
 - I am Swapnil Rana 😊
 
 ## **EDUCATION**
-**Masters in Electrical and Computer Engineering (Software and AI/ML course based)  &emsp; Graduating in Aug 2022**
+**Masters in Electrical and Computer Engineering (Software and AI/ML course based)  &emsp; CGPA 4.0**
 <br/>
 *University of Waterloo, Waterloo | Ontario CA*
 <br/>
@@ -39,15 +39,15 @@
 ## **PROFESSIONAL EXPERIENCE**
 ### **Embedded Design Engineer**     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; April 2019 to April 2021
 *Godrej Interio – Mumbai | India*					        
-- Accomplished various POC through research, benchmarking, and prototyping. Thereby uplifted existing products to match with the current technology and market trends. 
--	Executed project planning, detailed hardware & firmware design for embedded systems in coherence with NPI processes utilizing DFSS methodology, DVPR, DFMEA and Risk Management.
--	Worked along with the cross-functional teams and vendors for product commercialization and conducted EMC/EMI tests as per IS/IEC standards for product compliance certification.
+•	Devised an intricate algorithm for ‘Posture recognizing AI based Chair’ to recognize and recommend healthy seating postures.
+•	Performed data mining and pattern analysis to carry out various POC for different innovative products through research, benchmarking, and prototyping
+•	For data collection developed hardware using Arduino, Raspberry Pi-RTOS and sensors communicating over Wi-Fi or Bluetooth. Used Microsoft Azure, & Node-red for data storage and representation. 
+•	Followed Agile for project management and worked along with the cross-functional teams and vendors for product commercialization. 
 
 ### **Industrial IoT Project Lead**   	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Feb 2018 to April 2019
 *Godrej Electrical and Electronics – Mumbai | India*
-- Researched and deployed IIoT solutions, Projects, & Digitized Shop floors to rectify regular equipment breakdowns, Routine machinery check-up, computing OEE productivity and operator efficiency.
-- Carried out exhaustive in-house development of projects through benchmarking, technological survey, POC, Circuit design, software development and concluded with delivery and onsite deployment.
--	Prepared and maintained user-manual, SOP’s, and design documents to expediate future deployment of similar projects.
+•	Researched and deployed IIoT solutions, Projects, & Digitized Shop floors to rectify regular equipment breakdowns, Routine machinery check-up, computing OEE productivity and operator efficiency.
+•	Carried out exhaustive in-house development of projects through detailed hardware and software development and IoT database handling using Azure cloud services, also worked along distributed systems for data collection.
 
 ### **Predictive & Protective Maintenance**      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;           June 2016 to Feb 2018
 *Godrej Electrical and Electronics – Mumbai | India*
